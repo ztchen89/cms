@@ -1,3 +1,3 @@
 cms
 ===
-正在写一个cms，maven+spring+springMVC+Mybatis+framework+jquery
+正在写一个cms，maven+spring+springMVC+Mybatis+freemaker+jquery
